@@ -58,7 +58,7 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/01_simple_rag.ipynb)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/01_simple_rag.ipynb)
 
 ## Semantic Chunking
 
@@ -80,8 +80,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/02_semantic_chunking.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/02_semantic_chunking_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/02_semantic_chunking.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/02_semantic_chunking_core.py)
 
 ## Context Enriched Retrieval 
 
@@ -102,8 +102,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/04_context_enriched_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/04_context_enriched_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/04_context_enriched_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/04_context_enriched_rag_core.py)
 
 ## Contextual Chunk Headers 
 
@@ -124,8 +124,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/05_contextual_chunk_headers_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/05_contextual_chunk_headers_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/05_contextual_chunk_headers_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/05_contextual_chunk_headers_rag_core.py)
 
 ## Document Augmentation
 
@@ -147,8 +147,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/06_doc_augmentation_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/06_doc_augmentation_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/06_doc_augmentation_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/06_doc_augmentation_rag_core.py)
 
 ## Query Transformation
 
@@ -180,8 +180,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/07_query_transform.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/07_query_transform_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/07_query_transform.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/07_query_transform_core.py)
 
 ## Reranker
 
@@ -209,8 +209,8 @@
 
 -----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/08_reranker.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/08_reranker_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/08_reranker.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/08_reranker_core.py)
 
 ## RSE 
 
@@ -236,8 +236,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/09_rse.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/09_rse_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/09_rse.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/09_rse_core.py)
 
 ## Contextual Compression
 
@@ -271,8 +271,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/10_contextual_compression.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/10_contextual_compression_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/10_contextual_compression.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/10_contextual_compression_core.py)
 
 ## Feedback Loop
 
@@ -300,8 +300,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/11_feedback_loop_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/11_feedback_loop_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/11_feedback_loop_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/11_feedback_loop_rag_core.py)
 
 ## Adaptive RAG
 
@@ -327,8 +327,8 @@
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/12_adaptive_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/12_adaptive_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/12_adaptive_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/12_adaptive_rag_core.py)
 
 ## Self RAG
 
@@ -358,8 +358,8 @@ Self-RAG 核心组件
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/13_self_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/13_self_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/13_self_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/13_self_rag_core.py)
 
 ## Fusion RAG
 
@@ -396,8 +396,8 @@ Self-RAG 核心组件
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/16_fusion_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/16_fusion_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/16_fusion_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/16_fusion_rag_core.py)
 
 ## Graph RAG
 
@@ -425,8 +425,8 @@ Graph RAG的关键优势
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/17_graph_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/17_graph_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/17_graph_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/17_graph_rag_core.py)
 
 ## Hierarchical Indices
 
@@ -461,8 +461,8 @@ Graph RAG的关键优势
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/18_hierarchy_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/18_hierarchy_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/18_hierarchy_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/18_hierarchy_rag_core.py)
 
 ## HyDE
 
@@ -492,8 +492,8 @@ Graph RAG的关键优势
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/19_HyDE_rag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/19_HyDE_rag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/19_HyDE_rag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/19_HyDE_rag_core.py)
 
 ## Crag
 
@@ -521,8 +521,8 @@ CRAG 在传统 RAG 的基础上进行了以下改进：
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/20_crag.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/20_crag_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/20_crag.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/20_crag_core.py)
 
 ## 分块技术
 
@@ -552,8 +552,8 @@ CRAG 在传统 RAG 的基础上进行了以下改进：
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/03_chunk_size_selector.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/03_chunk_size_selector_core.py)
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/03_chunk_size_selector.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/03_chunk_size_selector_core.py)
 
 ### 命题分块技术
 
@@ -577,8 +577,8 @@ CRAG 在传统 RAG 的基础上进行了以下改进：
 
 ----
 
-- 具体代码实现过程与分析，请查看，[点击跳转🖱️](../src/full/14_proposition_chunking.ipynb)
-- 核心函数，请查看，[点击跳转🖱️](../src/core/14_propostion_chunking_core.py) 
+- 具体代码实现过程与分析，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/full/14_proposition_chunking.ipynb)
+- 核心函数，请查看，[点击跳转🖱️](https://github.com/ByteTora/hello-rag/blob/main/src/core/14_propostion_chunking_core.py) 
 
 ## 可选：使用 OrcaRouter 运行（Optional: Run with OrcaRouter）
 

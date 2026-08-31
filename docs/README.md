@@ -57,7 +57,7 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [01_simple_rag.ipynb](../src/full/01_simple_rag.ipynb)
+- For the full implementation and analysis, see: [01_simple_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/01_simple_rag.ipynb)
 
 ## Semantic Chunking
 
@@ -79,8 +79,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [02_semantic_chunking.ipynb](../src/full/02_semantic_chunking.ipynb)
-- For the core functions, see: [02_semantic_chunking_core.py](../src/core/02_semantic_chunking_core.py)
+- For the full implementation and analysis, see: [02_semantic_chunking.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/02_semantic_chunking.ipynb)
+- For the core functions, see: [02_semantic_chunking_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/02_semantic_chunking_core.py)
 
 ## Context Enriched Retrieval
 
@@ -101,8 +101,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [04_context_enriched_rag.ipynb](../src/full/04_context_enriched_rag.ipynb)
-- For the core functions, see: [04_context_enriched_rag_core.py](../src/core/04_context_enriched_rag_core.py)
+- For the full implementation and analysis, see: [04_context_enriched_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/04_context_enriched_rag.ipynb)
+- For the core functions, see: [04_context_enriched_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/04_context_enriched_rag_core.py)
 
 ## Contextual Chunk Headers
 
@@ -123,8 +123,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [05_contextual_chunk_headers_rag.ipynb](../src/full/05_contextual_chunk_headers_rag.ipynb)
-- For the core functions, see: [05_contextual_chunk_headers_rag_core.py](../src/core/05_contextual_chunk_headers_rag_core.py)
+- For the full implementation and analysis, see: [05_contextual_chunk_headers_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/05_contextual_chunk_headers_rag.ipynb)
+- For the core functions, see: [05_contextual_chunk_headers_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/05_contextual_chunk_headers_rag_core.py)
 
 ## Document Augmentation
 
@@ -146,8 +146,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [06_doc_augmentation_rag.ipynb](../src/full/06_doc_augmentation_rag.ipynb)
-- For the core functions, see: [06_doc_augmentation_rag_core.py](../src/core/06_doc_augmentation_rag_core.py)
+- For the full implementation and analysis, see: [06_doc_augmentation_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/06_doc_augmentation_rag.ipynb)
+- For the core functions, see: [06_doc_augmentation_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/06_doc_augmentation_rag_core.py)
 
 ## Query Transformation
 
@@ -179,8 +179,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [07_query_transform.ipynb](../src/full/07_query_transform.ipynb)
-- For the core functions, see: [07_query_transform_core.py](../src/core/07_query_transform_core.py)
+- For the full implementation and analysis, see: [07_query_transform.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/07_query_transform.ipynb)
+- For the core functions, see: [07_query_transform_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/07_query_transform_core.py)
 
 ## Reranker
 
@@ -208,8 +208,8 @@ Implementation steps:
 
 -----
 
-- For the full implementation and analysis, see: [08_reranker.ipynb](../src/full/08_reranker.ipynb)
-- For the core functions, see: [08_reranker_core.py](../src/core/08_reranker_core.py)
+- For the full implementation and analysis, see: [08_reranker.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/08_reranker.ipynb)
+- For the core functions, see: [08_reranker_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/08_reranker_core.py)
 
 ## RSE
 
@@ -235,8 +235,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [09_rse.ipynb](../src/full/09_rse.ipynb)
-- For the core functions, see: [09_rse_core.py](../src/core/09_rse_core.py)
+- For the full implementation and analysis, see: [09_rse.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/09_rse.ipynb)
+- For the core functions, see: [09_rse_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/09_rse_core.py)
 
 ## Contextual Compression
 
@@ -270,8 +270,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [10_contextual_compression.ipynb](../src/full/10_contextual_compression.ipynb)
-- For the core functions, see: [10_contextual_compression_core.py](../src/core/10_contextual_compression_core.py)
+- For the full implementation and analysis, see: [10_contextual_compression.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/10_contextual_compression.ipynb)
+- For the core functions, see: [10_contextual_compression_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/10_contextual_compression_core.py)
 
 ## Feedback Loop
 
@@ -299,8 +299,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [11_feedback_loop_rag.ipynb](../src/full/11_feedback_loop_rag.ipynb)
-- For the core functions, see: [11_feedback_loop_rag_core.py](../src/core/11_feedback_loop_rag_core.py)
+- For the full implementation and analysis, see: [11_feedback_loop_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/11_feedback_loop_rag.ipynb)
+- For the core functions, see: [11_feedback_loop_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/11_feedback_loop_rag_core.py)
 
 ## Adaptive RAG
 
@@ -326,8 +326,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [12_adaptive_rag.ipynb](../src/full/12_adaptive_rag.ipynb)
-- For the core functions, see: [12_adaptive_rag_core.py](../src/core/12_adaptive_rag_core.py)
+- For the full implementation and analysis, see: [12_adaptive_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/12_adaptive_rag.ipynb)
+- For the core functions, see: [12_adaptive_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/12_adaptive_rag_core.py)
 
 ## Self RAG
 
@@ -356,8 +356,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [13_self_rag.ipynb](../src/full/13_self_rag.ipynb)
-- For the core functions, see: [13_self_rag_core.py](../src/core/13_self_rag_core.py)
+- For the full implementation and analysis, see: [13_self_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/13_self_rag.ipynb)
+- For the core functions, see: [13_self_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/13_self_rag_core.py)
 
 ## Fusion RAG
 
@@ -394,8 +394,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [16_fusion_rag.ipynb](../src/full/16_fusion_rag.ipynb)
-- For the core functions, see: [16_fusion_rag_core.py](../src/core/16_fusion_rag_core.py)
+- For the full implementation and analysis, see: [16_fusion_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/16_fusion_rag.ipynb)
+- For the core functions, see: [16_fusion_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/16_fusion_rag_core.py)
 
 ## Graph RAG
 
@@ -422,8 +422,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [17_graph_rag.ipynb](../src/full/17_graph_rag.ipynb)
-- For the core functions, see: [17_graph_rag_core.py](../src/core/17_graph_rag_core.py)
+- For the full implementation and analysis, see: [17_graph_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/17_graph_rag.ipynb)
+- For the core functions, see: [17_graph_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/17_graph_rag_core.py)
 
 ## Hierarchical Indices
 
@@ -458,8 +458,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [18_hierarchy_rag.ipynb](../src/full/18_hierarchy_rag.ipynb)
-- For the core functions, see: [18_hierarchy_rag_core.py](../src/core/18_hierarchy_rag_core.py)
+- For the full implementation and analysis, see: [18_hierarchy_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/18_hierarchy_rag.ipynb)
+- For the core functions, see: [18_hierarchy_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/18_hierarchy_rag_core.py)
 
 ## HyDE
 
@@ -488,8 +488,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [19_HyDE_rag.ipynb](../src/full/19_HyDE_rag.ipynb)
-- For the core functions, see: [19_HyDE_rag_core.py](../src/core/19_HyDE_rag_core.py)
+- For the full implementation and analysis, see: [19_HyDE_rag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/19_HyDE_rag.ipynb)
+- For the core functions, see: [19_HyDE_rag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/19_HyDE_rag_core.py)
 
 ## CRAG
 
@@ -516,8 +516,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [20_crag.ipynb](../src/full/20_crag.ipynb)
-- For the core functions, see: [20_crag_core.py](../src/core/20_crag_core.py)
+- For the full implementation and analysis, see: [20_crag.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/20_crag.ipynb)
+- For the core functions, see: [20_crag_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/20_crag_core.py)
 
 ## Chunking Techniques
 
@@ -547,8 +547,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [03_chunk_size_selector.ipynb](../src/full/03_chunk_size_selector.ipynb)
-- For the core functions, see: [03_chunk_size_selector_core.py](../src/core/03_chunk_size_selector_core.py)
+- For the full implementation and analysis, see: [03_chunk_size_selector.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/03_chunk_size_selector.ipynb)
+- For the core functions, see: [03_chunk_size_selector_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/03_chunk_size_selector_core.py)
 
 ### Proposition Chunking
 
@@ -572,8 +572,8 @@ Implementation steps:
 
 ----
 
-- For the full implementation and analysis, see: [14_proposition_chunking.ipynb](../src/full/14_proposition_chunking.ipynb)
-- For the core functions, see: [14_propostion_chunking_core.py](../src/core/14_propostion_chunking_core.py)
+- For the full implementation and analysis, see: [14_proposition_chunking.ipynb](https://github.com/ByteTora/hello-rag/blob/main/src/full/14_proposition_chunking.ipynb)
+- For the core functions, see: [14_propostion_chunking_core.py](https://github.com/ByteTora/hello-rag/blob/main/src/core/14_propostion_chunking_core.py)
 
 ## Optional: Run with OrcaRouter
 
