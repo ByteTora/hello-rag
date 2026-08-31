@@ -11,31 +11,6 @@
 
 <!-- > ✨ 此仓库为中文的实现过程，并将每一步中文注释，且都跑通实现，目前基于文本进行实现，没有实现多模态的RAG。详细的内容可以去看 [RESOURCES](#RESOURCES) 哦。 -->
 
-## 可选：使用 OrcaRouter 运行（Optional: Run with OrcaRouter）
-
-> 本项目基于 OpenAI 兼容接口，可直接将 LLM 网关指向 **OrcaRouter** —— 一个零加价的 LLM 网关，通过一个端点即可访问 200+ 模型，并内置自适应路由、自动故障转移与提示词缓存。
->
-> This project speaks the OpenAI-compatible protocol, so you can point the gateway at **OrcaRouter** — a zero-markup LLM gateway that exposes 200+ models behind one endpoint, with adaptive routing, automatic failover, and prompt caching built in.
-
-**配置 / Setup（3 行环境变量）**
-
-```bash
-export LLM_BASE_URL=https://api.orcarouter.ai/v1
-export LLM_API_KEY=sk-orca-...
-export LLM_MODEL_ID=orcarouter/auto
-```
-
-- **获取 Key / Get an API key**: [https://www.orcarouter.ai/ref/ref_007610f54c1e5ca8be45](https://www.orcarouter.ai/ref/ref_007610f54c1e5ca8be45)
-- **模型列表 / Model catalog**: [https://www.orcarouter.ai/models](https://www.orcarouter.ai/models)
-- **文档 / Docs**: [https://docs.orcarouter.ai](https://docs.orcarouter.ai)
-- **Provider 配置 / Provider config**: [`providers/orcarouter.json`](https://github.com/ByteTora/hello-rag/blob/main/providers/orcarouter.json) · [`.env.example`](https://github.com/ByteTora/hello-rag/blob/main/.env.example)
-
-> ⚠️ 嵌入模型同理：设置 `EMBEDDING_MODEL_ID` 为 OrcaRouter 支持的任意嵌入模型即可。
-> ⚠️ Same for embeddings: set `EMBEDDING_MODEL_ID` to any embedding model OrcaRouter supports.
-
-*收录于 [Built with OrcaRouter](https://www.orcarouter.ai/built-with) —— 仅为署名，非背书。*
-*Listed on [Built with OrcaRouter](https://www.orcarouter.ai/built-with) — attribution, not endorsement.*
-
 该仓库采用清晰、动手实践的方法来处理检索增强生成（RAG），将高级技术分解为简单易懂的实现。这里不依赖于像 `LangChain` 或 `FAISS` 这样的框架，而是使用熟悉的 Python 库 `openai` 、 `numpy` 、 `fitz(pymupdf)` 以及其他一些库来实现。
 
 目标很简单：提供易于阅读、修改和学习的代码。通过关注基础，这个项目有助于揭开 RAG 的神秘面纱，使人们更容易理解它真正的工作原理。
@@ -600,6 +575,21 @@ CRAG 在传统 RAG 的基础上进行了以下改进：
 
 - 具体代码实现过程与分析，请查看，[点击跳转🖱️](src/full/14_proposition_chunking.ipynb)
 - 核心函数，请查看，[点击跳转🖱️](src/core/14_propostion_chunking_core.py) 
+
+## 可选：使用 OrcaRouter 运行（Optional: Run with OrcaRouter）
+
+本项目基于 OpenAI 兼容接口，可指向 **OrcaRouter**（零加价 LLM 网关，200+ 模型，一个端点）。配置 3 行环境变量即可：
+
+```bash
+export LLM_BASE_URL=https://api.orcarouter.ai/v1
+export LLM_API_KEY=sk-orca-...
+export LLM_MODEL_ID=orcarouter/auto
+```
+
+- **获取 Key / Get an API key**: [orcarouter.ai/ref/ref_007610f54c1e5ca8be45](https://www.orcarouter.ai/ref/ref_007610f54c1e5ca8be45) | **模型 / Models**: [orcarouter.ai/models](https://www.orcarouter.ai/models) | **文档 / Docs**: [docs.orcarouter.ai](https://docs.orcarouter.ai)
+- **Provider 配置 / Provider config**: [`providers/orcarouter.json`](https://github.com/ByteTora/hello-rag/blob/main/providers/orcarouter.json) · [`.env.example`](https://github.com/ByteTora/hello-rag/blob/main/.env.example)
+
+*收录于 [Built with OrcaRouter](https://www.orcarouter.ai/built-with) —— 仅为署名，非背书。* *Listed on [Built with OrcaRouter](https://www.orcarouter.ai/built-with) — attribution, not endorsement.*
 
 ## RESOURCES:
 - https://levelup.gitconnected.com/testing-18-rag-techniques-to-find-the-best-094d166af27f
