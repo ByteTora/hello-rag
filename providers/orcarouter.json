@@ -1,0 +1,21 @@
+{
+  "id": "orcarouter",
+  "name": "OrcaRouter",
+  "type": "openai-compat",
+  "api": "openai-completions",
+  "base_url": "https://api.orcarouter.ai/v1",
+  "api_key_env": "ORCAROUTER_API_KEY",
+  "default_model": "orcarouter/auto",
+  "models": [
+    {
+      "id": "orcarouter/auto",
+      "name": "OrcaRouter Auto"
+    }
+  ],
+  "headers": {
+    "HTTP-Referer": "https://www.orcarouter.ai/ref/ref_007610f54c1e5ca8be45",
+    "X-Title": "hello-rag"
+  },
+  "docs": "https://docs.orcarouter.ai/introduction",
+  "referral": "https://www.orcarouter.ai/ref/ref_007610f54c1e5ca8be45"
+}
